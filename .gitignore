@@ -1,2 +1,4 @@
 
 release.bat
+.craft/
+*.xpi
