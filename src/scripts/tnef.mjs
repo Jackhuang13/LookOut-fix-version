@@ -1644,7 +1644,8 @@ export function tnef_parse(instrm, msg_header, listener, _prefs) {
                   tnef_pack_handle_html_data(pkg, mapi_attrs[i], listener);
                   break;
                 case MAPI_RTF_COMPRESSED:
-                  tnef_pack_handle_rtf_data(pkg, mapi_attrs[i], listener);
+                  if (!prefs["suppress_rtf_body"])
+                    tnef_pack_handle_rtf_data(pkg, mapi_attrs[i], listener);
                   break;
                 default:
                   // cannot save attributes to file yet, since they are not attachment attributes

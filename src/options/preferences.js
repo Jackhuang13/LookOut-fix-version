@@ -7,6 +7,7 @@ const USER_OPTIONS = [
   "remove_winmail_dat",
   "strict_contenttype",
   "debug_enabled",
+  "suppress_rtf_body",
 ]
 
 

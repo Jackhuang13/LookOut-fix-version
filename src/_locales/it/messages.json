@@ -64,5 +64,11 @@
     },
     "strict_contenttype_check.label": {
         "message": "Richiede una rigida corrispondenza nel tipo di contenuto"
+    },
+    "suppress_rtf_body_check.accesskey": {
+        "message": "B"
+    },
+    "suppress_rtf_body_check.label": {
+        "message": "Sopprimi allegato corpo RTF (body_part_*.rtf)"
     }
 }

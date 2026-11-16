@@ -64,5 +64,11 @@
     },
     "strict_contenttype_check.label": {
         "message": "Bestandstype strenger controleren"
+    },
+    "suppress_rtf_body_check.accesskey": {
+        "message": "O"
+    },
+    "suppress_rtf_body_check.label": {
+        "message": "RTF-tekstbijlage onderdrukken (body_part_*.rtf)"
     }
 }

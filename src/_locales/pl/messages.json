@@ -64,5 +64,11 @@
     },
     "strict_contenttype_check.label": {
         "message": "Dokładne dopasowanie typu zawartości"
+    },
+    "suppress_rtf_body_check.accesskey": {
+        "message": "B"
+    },
+    "suppress_rtf_body_check.label": {
+        "message": "Odrzuć załącznik treści RTF (body_part_*.rtf)"
     }
 }

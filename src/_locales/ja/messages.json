@@ -64,5 +64,11 @@
     },
     "strict_contenttype_check.label": {
         "message": "厳密なメディアタイプ判定を実施する"
+    },
+    "suppress_rtf_body_check.accesskey": {
+        "message": "B"
+    },
+    "suppress_rtf_body_check.label": {
+        "message": "RTF 本文添付ファイル(body_part_*.rtf)を抑制する"
     }
 }

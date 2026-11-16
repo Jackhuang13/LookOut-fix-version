@@ -7,6 +7,7 @@ const PREF_DEFAULTS = {
   "strict_contenttype": true,
   "debug_enabled": false,
   "body_part_prefix": "body_part_",
+  "suppress_rtf_body": true,
 }
 
 export async function migratePrefs() {

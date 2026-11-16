@@ -64,5 +64,11 @@
     },
     "strict_contenttype_check.label": {
         "message": "Strict Content Type Matching"
+    },
+    "suppress_rtf_body_check.accesskey": {
+        "message": "B"
+    },
+    "suppress_rtf_body_check.label": {
+        "message": "Suppress RTF body attachment (body_part_*.rtf)"
     }
 }
